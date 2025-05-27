@@ -344,9 +344,6 @@ int main() {
 Output:
 
 
-
-
-
 ![Screenshot 2025-04-26 211317](https://github.com/user-attachments/assets/49d1094c-6fed-455a-b84e-ba797f321375)
 
 
